@@ -1,0 +1,343 @@
+2026-02-18 23:17:40,496 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:17:40,496 - ArticleSpider - WARNING - [33m⚠ [警告] 数据库连接失败: connect() got an unexpected keyword argument 'max_size'，API 将以有限功能运行[0m
+2026-02-18 23:18:01,761 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:18:01,762 - ArticleSpider - WARNING - [33m⚠ [警告] 数据库连接失败: connect() got an unexpected keyword argument 'maxconnections'，API 将以有限功能运行[0m
+2026-02-18 23:21:02,037 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:21:02,143 - ArticleSpider - WARNING - [33m⚠ [警告] 数据库连接失败: (1049, "Unknown database 'article_spider'")，API 将以有限功能运行[0m
+2026-02-18 23:22:02,296 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:22:02,364 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 0[0m
+2026-02-18 23:22:02,366 - ArticleSpider - WARNING - [33m⚠ [警告] 数据库连接失败: (1101, "BLOB, TEXT, GEOMETRY or JSON column 'platform_data' can't have a default value")，API 将以有限功能运行[0m
+2026-02-18 23:22:56,313 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:22:56,329 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 0[0m
+2026-02-18 23:22:56,387 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-18 23:23:31,678 - ArticleSpider - ERROR - [31m✗ [错误] 获取结果失败: (1054, "Unknown column 'author' in 'field list'")[0m
+2026-02-18 23:25:10,341 - ArticleSpider - ERROR - [31m✗ [错误] 获取结果失败: (1054, "Unknown column 'author' in 'field list'")[0m
+2026-02-18 23:25:16,032 - ArticleSpider - ERROR - [31m✗ [错误] 获取结果失败: (1054, "Unknown column 'author' in 'field list'")[0m
+2026-02-18 23:26:10,868 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:26:10,884 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-18 23:26:10,884 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-18 23:35:50,948 - ArticleSpider - ERROR - [31m✗ [错误] 任务 test 失败: No module named 'chardet'[0m
+2026-02-18 23:36:04,777 - ArticleSpider - ERROR - [31m✗ [错误] 任务 test 失败: No module named 'chardet'[0m
+2026-02-18 23:39:48,989 - ArticleSpider - ERROR - [31m✗ [错误] 任务 test 失败: No module named 'chardet'[0m
+2026-02-18 23:39:51,085 - ArticleSpider - ERROR - [31m✗ [错误] 任务 test 失败: No module named 'chardet'[0m
+2026-02-18 23:42:53,539 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:42:53,554 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-18 23:42:53,555 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-18 23:43:30,461 - ArticleSpider - ERROR - [31m✗ [错误] 任务 test 失败: No module named 'chardet'[0m
+2026-02-18 23:44:10,235 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:44:10,251 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-18 23:44:10,251 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-18 23:44:41,316 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:41,493 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:41,695 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:41,881 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:42,157 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:42,387 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:42,602 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:42,808 - ArticleSpider - ERROR - [31m✗ [错误] 网易新闻 爬取失败: not all arguments converted during string formatting[0m
+2026-02-18 23:44:42,808 - ArticleSpider - INFO - [32m✓ [成功] 任务 test 完成，保存了 True 篇文章[0m
+2026-02-18 23:47:03,510 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:47:03,525 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-18 23:47:03,526 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-18 23:47:33,988 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:47:33,989 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：时事热点 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:47:34,310 - ArticleSpider - INFO - [32m✓ [成功] 网易新闻类别：时事热点 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:47:34,413 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:47:34,415 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：军事 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:47:34,644 - ArticleSpider - INFO - [32m✓ [成功] 网易新闻类别：军事 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:47:34,869 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过1篇已存在的文章[0m
+2026-02-18 23:47:34,870 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：社会 总共 1 篇文章，需要爬取 0 篇[0m
+2026-02-18 23:47:34,870 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：社会 没有新文章需要爬取[0m
+2026-02-18 23:47:35,060 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:47:35,062 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：科技 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:47:35,400 - ArticleSpider - INFO - [32m✓ [成功] 网易新闻类别：科技 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:47:35,580 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:47:35,581 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：娱乐 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:47:35,972 - ArticleSpider - INFO - [32m✓ [成功] 网易新闻类别：娱乐 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:47:36,143 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:47:36,145 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：经济 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:47:36,366 - ArticleSpider - INFO - [32m✓ [成功] 网易新闻类别：经济 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:47:36,568 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:47:36,570 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：教育 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:47:36,930 - ArticleSpider - INFO - [32m✓ [成功] 网易新闻类别：教育 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:47:37,144 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:47:37,144 - ArticleSpider - INFO - [37mℹ [信息] 网易新闻类别：生活 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:47:37,384 - ArticleSpider - INFO - [32m✓ [成功] 网易新闻类别：生活 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:47:37,384 - ArticleSpider - INFO - [32m✓ [成功] 任务 test 完成，保存了 True 篇文章[0m
+2026-02-18 23:50:40,211 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-18 23:50:40,224 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-18 23:50:40,224 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-18 23:51:38,929 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-18 23:51:38,929 - ArticleSpider - INFO - [37mℹ [信息] 新浪国际 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-18 23:51:39,123 - ArticleSpider - INFO - [32m✓ [成功] 新浪国际 爬取完成，保存了 1 篇文章[0m
+2026-02-18 23:51:39,123 - ArticleSpider - INFO - [32m✓ [成功] 任务 test 完成，保存了 1 篇文章[0m
+2026-02-19 00:06:38,233 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-19 00:06:38,247 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-19 00:06:38,248 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-19 00:09:14,413 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-19 00:09:14,428 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-19 00:09:14,428 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
+2026-02-19 00:10:08,170 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:08,170 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：时政 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:08,381 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：时政 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:08,601 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:08,601 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：国际 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:08,829 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：国际 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:09,021 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:09,023 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：财经 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:09,211 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：财经 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:09,436 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:09,438 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：明星新闻 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:09,615 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：明星新闻 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:09,806 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:09,806 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：综艺新闻 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:09,986 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：综艺新闻 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:10,168 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过1篇已存在的文章[0m
+2026-02-19 00:10:10,168 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：影视音乐 总共 1 篇文章，需要爬取 0 篇[0m
+2026-02-19 00:10:10,168 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：影视音乐 没有新文章需要爬取[0m
+2026-02-19 00:10:10,358 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:10,358 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：网红 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:10,567 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：网红 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:10,776 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:10,776 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：幼儿教育 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:10,981 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:10,981 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：幼儿教育 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:11,170 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:11,170 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：中小学 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:11,386 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：中小学 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:11,584 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:11,585 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：高考 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:11,773 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：高考 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:12,049 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:12,050 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：高校 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:12,254 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：高校 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:12,486 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:12,486 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：考研考公 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:12,692 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：考研考公 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:12,916 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:12,917 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：教资法考 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:13,112 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:13,112 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：教资法考 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:13,314 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:13,315 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：留学 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:13,517 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：留学 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:13,781 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:13,781 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：学习资料 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:13,982 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：学习资料 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:14,183 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:14,183 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：时尚 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:14,413 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：时尚 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:14,608 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:14,608 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：明星 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:14,792 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：明星 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:15,006 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:15,006 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：格调生活 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:15,234 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：格调生活 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:15,452 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:15,453 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：美容 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:15,704 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:15,704 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：美容 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:15,892 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:15,892 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：奢品 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:16,087 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:16,087 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：奢品 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:16,274 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:16,274 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：男士 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:16,471 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:16,472 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：男士 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:16,653 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:16,653 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：生活方式 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:16,847 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:16,847 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：生活方式 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:17,057 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:17,057 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：通讯 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:17,250 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：通讯 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:17,441 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:17,442 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：数码 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:17,628 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：数码 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:17,824 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:17,826 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：手机 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:18,032 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:18,033 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：手机 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:18,209 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:18,209 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：互联网 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:18,404 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：互联网 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:18,607 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:18,607 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：5G 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:18,808 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:18,809 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：5G 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:19,008 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:19,010 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：智能硬件 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:19,206 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：智能硬件 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:19,394 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:19,394 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：宇宙发现 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:19,573 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：宇宙发现 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:19,796 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:19,797 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：世界未解之谜 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:19,997 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：世界未解之谜 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:20,262 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:20,263 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：科学发现 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:20,519 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：科学发现 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:20,750 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:20,750 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：物理帝国 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:20,941 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:20,941 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：物理帝国 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:21,152 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:21,152 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：搜狐科学feed流 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:21,357 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：搜狐科学feed流 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:21,576 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:21,577 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：经济解码 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:21,781 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：经济解码 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:21,983 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:21,983 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：股票 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:22,176 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：股票 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:22,382 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:22,382 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：基金 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:22,578 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：基金 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:22,779 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:22,780 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：IPO 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:22,980 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：IPO 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:23,221 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:23,222 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：新赛道 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:23,434 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:23,434 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：新赛道 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:23,631 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:23,631 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：搜狐酒业 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:23,829 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：搜狐酒业 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:24,006 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:24,006 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：备孕指南 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:24,198 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：备孕指南 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:24,419 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:24,419 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：怀胎十月 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:24,620 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：怀胎十月 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:24,823 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:24,823 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：生产必备 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:25,019 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：生产必备 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:25,223 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:25,223 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：月子 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:25,422 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：月子 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:25,614 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:25,614 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：新生儿 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:25,792 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:25,792 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：新生儿 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:26,032 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:26,032 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：历史 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:26,219 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：历史 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:26,437 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:26,437 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：国内资讯 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:26,694 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：国内资讯 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:26,891 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:26,891 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：国际资讯 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:27,087 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：国际资讯 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:27,311 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:27,311 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：风云人物 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:27,524 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：风云人物 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:27,797 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:27,798 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：战争历史 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:28,052 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：战争历史 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:28,229 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:28,229 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：军情纵横 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:28,430 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：军情纵横 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:28,635 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:28,636 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：网红餐厅 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:28,825 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：网红餐厅 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:29,085 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:29,086 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：行业聚焦 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:29,323 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：行业聚焦 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:29,546 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:29,547 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：餐饮界 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:29,754 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：餐饮界 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:29,955 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:29,955 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：休闲食品 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:30,148 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：休闲食品 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:30,336 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:30,338 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：流行餐单 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:30,553 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：流行餐单 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:30,763 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:30,763 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：读书 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:30,963 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：读书 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:31,186 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:31,187 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：人物 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:31,404 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：人物 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:31,588 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:31,589 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：收藏 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:31,781 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：收藏 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:32,025 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:32,025 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：影视 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:32,191 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：影视 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:32,388 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:32,388 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：艺术 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:32,566 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：艺术 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:32,750 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:32,752 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：运势 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:32,981 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：运势 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:33,193 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:33,193 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：情感 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:33,392 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：情感 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:33,592 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:33,592 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：性格解读 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:33,767 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：性格解读 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:33,949 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:33,949 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：生肖风水 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:34,133 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：生肖风水 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:34,334 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:34,334 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：心理测试 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:34,529 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：心理测试 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:34,751 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:34,752 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：电竞 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:34,957 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：电竞 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:35,139 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:35,139 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：手游 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:35,328 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:35,328 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：手游 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:35,528 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:35,530 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：单机 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:35,728 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:35,728 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：单机 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:35,926 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:35,926 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：网游 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:36,121 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:36,121 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：网游 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:36,355 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:36,355 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：攻略 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:36,568 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：攻略 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:36,756 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:36,756 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：赛事追踪 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:36,967 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：赛事追踪 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:37,179 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:37,180 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：职业选手 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:37,354 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:37,356 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：职业选手 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:37,564 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:37,566 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：赛圈八卦 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:37,840 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:37,840 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：赛圈八卦 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:38,062 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:38,063 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：搞笑feed流 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:38,297 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：搞笑feed流 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:38,520 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:38,521 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：搞笑美女 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:38,707 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：搞笑美女 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:38,909 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:38,911 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：国漫推荐 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:39,110 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：国漫推荐 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:39,293 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:39,293 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：日漫推荐 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:39,478 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：日漫推荐 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:39,675 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:39,675 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：美漫推荐 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:39,866 - ArticleSpider - ERROR - [31m✗ [错误] 处理新闻项目失败: cannot access local variable 'params' where it is not associated with a value[0m
+2026-02-19 00:10:39,866 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：美漫推荐 爬取完成，保存了 0 篇文章[0m
+2026-02-19 00:10:40,044 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:40,044 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：养宠经验 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:40,237 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：养宠经验 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:40,413 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:40,413 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：喵星人 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:40,690 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：喵星人 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:40,868 - ArticleSpider - INFO - [34m⊘ [跳过] 跳过0篇已存在的文章[0m
+2026-02-19 00:10:40,868 - ArticleSpider - INFO - [37mℹ [信息] 搜狐新闻类别：汪星人 总共 1 篇文章，需要爬取 1 篇[0m
+2026-02-19 00:10:41,107 - ArticleSpider - INFO - [32m✓ [成功] 搜狐新闻类别：汪星人 爬取完成，保存了 1 篇文章[0m
+2026-02-19 00:10:41,107 - ArticleSpider - INFO - [32m✓ [成功] 任务 test 完成，保存了 True 篇文章[0m
+2026-02-19 00:12:30,889 - ArticleSpider - INFO - [45m[37m                         API 服务启动                         [0m
+2026-02-19 00:12:30,903 - ArticleSpider - INFO - [37mℹ [信息] 检查表存在性结果: 1[0m
+2026-02-19 00:12:30,903 - ArticleSpider - INFO - [32m✓ [成功] 数据库连接池已创建[0m
